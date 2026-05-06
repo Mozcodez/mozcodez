@@ -8,14 +8,21 @@
  ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝  
 ```
  👾 CS Undergrad · Full-Stack Developer · Building the Web, One Line at a Time
-
-  role:       "Computer Science Undergraduate",
-  focus:      ["Frontend Development", "Backend Development"],
-  currently:  "Building full-stack web apps & leveling up every day",
-  funFact:    "I debug in the dark 🌑 — the code hits different"
+ 
+ 👾 About Me
+-----------
+role:       "Computer Science Undergraduate"
+focus:      ["Frontend Development", "Backend Development"]
+currently:  "Building full-stack web apps & improving daily"
+funFact:    "I debug in the dark 🌑 — the code hits different"
 
   ⚡ Tech Stack
-  html5 css3 react node.js javascript python
+  <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" /> </p>
+
+  🚀 What I'm Up To
+🔭 Building and deploying full-stack applications
+🌱 Learning more about scalable backend systems
+⚡ Turning ideas into real-world web experiences
 
 <!--
 **Mozcodez/mozcodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
